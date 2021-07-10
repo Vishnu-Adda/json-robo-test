@@ -1,3 +1,5 @@
 {
-    "is_operational": "true"
+    "drive": [
+        { "is_operational": true }
+    ]
 }
