@@ -1,5 +1,5 @@
 {
     "drive": [
-        { "is_operational": true }
+        { "is_operational": true, "drive_mode": "D", "speed": 10.0, "angle": 10.0 }
     ]
 }
